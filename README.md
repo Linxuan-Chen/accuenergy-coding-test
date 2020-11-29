@@ -1,12 +1,31 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-11-27 16:38:29
+ * @LastEditTime: 2020-11-29 01:06:29
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \repository\accuenergy-coding-test\README.md
+-->
+
 # Description
 
 This is a pre-interview coding test project for Accuenergy.
 
 ## Demo
 
-You can find a demo [here](https://linxuan-chen.github.io/accuenergy-coding-test/)
+You can find a demo [here](https://linxuan-chen.github.io/accuenergy-coding-test/).
 
-Or you can find source codes [here](https://github.com/Linxuan-Chen/accuenergy-coding-test/tree/master)
+Or you can find source codes [here](https://github.com/Linxuan-Chen/accuenergy-coding-test/tree/master).
+
+## How To Use
+
+You can input exact address/location name in any language, then press search button or press enter key on your keyboard to search for details.
+
+Your location button is to relocate the map to your current location, and please allow your broswer to access to your location infomation before use it.
+
+A red marker will be generated on designated location based on keywords searched. An infomation window will be opened by default. You can close it by click cross sign, and you are able to reopen it by click on the marker.
+
+Clocks will show UTC time and time of selected location automatically.
 
 ## Technology Stack
 
