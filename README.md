@@ -13,8 +13,11 @@ Or you can find source code [here](https://github.com/Linxuan-Chen/accuenergy-co
 There are serval techs used in this project
 
 [React](https://reactjs.org/)
+
 [Module CSS](https://github.com/css-modules/css-modules)
+
 [SASS](https://sass-lang.com/)
+
 [Google Map Services including Geocoding API, Maps Javascript API, Time Zone API](https://cloud.google.com/maps-platform/?utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_274433407138-ADGP_Hybrid%20%7C%20AW%20SEM%20%7C%20BKWS%20~%20Google%20Maps%20API-KWID_43700033921822009-aud-581578347266%3Akwd-12582961063-userloc_9061024&utm_term=KW_google%20maps%20apis-ST_google%20maps%20apis&gclid=Cj0KCQiAh4j-BRCsARIsAGeV12D67OdqfQoIqfwvyeoU8U5yCGU-HZLsDVJEjI96cTREqU4C6hV3z_8aAjg1EALw_wcB)
 
 ## Available Scripts
