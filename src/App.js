@@ -1,10 +1,8 @@
 /*
- * @Author: your name
+ * @Author: Linxuan Chen
  * @Date: 2020-11-27 16:38:29
- * @LastEditTime: 2020-11-28 23:53:38
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \repository\accuenergy-coding-test\src\App.js
+ * @LastEditTime: 2020-11-29 01:12:28
+ * @Description: App
  */
 import "./App.scss";
 import MapContainer from "./Components/Map/MapContainer";

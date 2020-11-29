@@ -1,10 +1,9 @@
 /*
- * @Author: your name
+ * @Author: Linxuan Chen
  * @Date: 2020-11-28 17:53:30
  * @LastEditTime: 2020-11-28 23:51:02
  * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \repository\accuenergy-coding-test\src\Utils\Constants.js
+ * @Description: Constants used in the project
  */
 //My Api key for consuming google APIs
 export const myAPIKey = "AIzaSyDN6-LfGwkjKY4nq9i0BZaWISOAs_criwI";

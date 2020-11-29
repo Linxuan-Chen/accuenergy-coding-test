@@ -1,9 +1,8 @@
 /*
  * @Author: Linxuan Chen
  * @Date: 2020-11-27 20:17:35
- * @LastEditTime: 2020-11-29 00:01:05
+ * @LastEditTime: 2020-11-29 01:12:55
  * @Description: Container component to fetch data from google map services.
- * @FilePath: \repository\accuenergy-coding-test\src\Components\MapDisplay\MapContainer.js
  */
 import React, { PureComponent } from "react";
 import Map from "./Map";
