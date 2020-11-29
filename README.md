@@ -1,14 +1,14 @@
 # Description
 
-This is pre-interview coding test project for Accuenergy.
+This is a pre-interview coding test project for Accuenergy.
 
 ## Demo
 
-You can find demo [here](https://linxuan-chen.github.io/accuenergy-coding-test/)
+You can find a demo [here](https://linxuan-chen.github.io/accuenergy-coding-test/)
 
-Or you can find source code [here](https://github.com/Linxuan-Chen/accuenergy-coding-test/tree/master)
+Or you can find source codes [here](https://github.com/Linxuan-Chen/accuenergy-coding-test/tree/master)
 
-## Technical Stack
+## Technology Stack
 
 There are serval techs used in this project
 
