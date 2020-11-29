@@ -1,0 +1,38 @@
+@media screen and (min-width: 1000px) {
+    .input_group {
+        position: absolute;
+        float   : left;
+        z-index : 1000;
+        margin  : 10px;
+        top     : 25%;
+
+        .search_box {
+            width      : 100%;
+            height     : 24px;
+            line-height: 24px;
+        }
+
+        .buttons {
+            min-width       : 35px;
+            height          : 40px;
+            padding         : 0px 17px;
+            margin-top      : 10px;
+            font-size       : 1.8rem;
+            background-color: #ffffff;
+            box-shadow      : rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;
+            border          : none;
+            cursor          : pointer;
+            outline         : none;
+
+            &:hover {
+                background-color: #efefef;
+            }
+        }
+
+
+    }
+}
+
+.map_wrapper {
+    height: calc(100vh - 100px);
+}

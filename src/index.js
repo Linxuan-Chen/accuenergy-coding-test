@@ -1,3 +1,11 @@
+/*
+ * @Author: your name
+ * @Date: 2020-11-27 16:38:29
+ * @LastEditTime: 2020-11-27 17:33:56
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \repository\accuenergy-coding-test\src\index.js
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
@@ -5,9 +13,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <App />,
   document.getElementById('root')
 );
 

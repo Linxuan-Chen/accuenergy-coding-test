@@ -1,23 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+/*
+ * @Author: your name
+ * @Date: 2020-11-27 16:38:29
+ * @LastEditTime: 2020-11-28 23:53:38
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \repository\accuenergy-coding-test\src\App.js
+ */
+import "./App.scss";
+import MapContainer from "./Components/Map/MapContainer";
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <header className="title">Accuenergy Pre-interview Coding Test</header>
+      <MapContainer />
     </div>
   );
 }
