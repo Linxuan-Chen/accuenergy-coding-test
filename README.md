@@ -2,6 +2,21 @@
 
 This is pre-interview coding test project for Accuenergy.
 
+## Demo
+
+You can find demo [here](https://linxuan-chen.github.io/accuenergy-coding-test/)
+
+Or you can find source code [here](https://github.com/Linxuan-Chen/accuenergy-coding-test/tree/master)
+
+## Technical Stack
+
+There are serval techs used in this project
+
+[React](https://reactjs.org/)
+[Module CSS](https://github.com/css-modules/css-modules)
+[SASS](https://sass-lang.com/)
+[Google Map Services including Geocoding API, Maps Javascript API, Time Zone API](https://cloud.google.com/maps-platform/?utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_274433407138-ADGP_Hybrid%20%7C%20AW%20SEM%20%7C%20BKWS%20~%20Google%20Maps%20API-KWID_43700033921822009-aud-581578347266%3Akwd-12582961063-userloc_9061024&utm_term=KW_google%20maps%20apis-ST_google%20maps%20apis&gclid=Cj0KCQiAh4j-BRCsARIsAGeV12D67OdqfQoIqfwvyeoU8U5yCGU-HZLsDVJEjI96cTREqU4C6hV3z_8aAjg1EALw_wcB)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -33,29 +48,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
